@@ -1,4 +1,4 @@
-![New Language](https://github.com/user-attachments/assets/bb62f219-d8eb-4102-a57b-c218532f2a04)
+![New Language](https://github.com/user-attachments/assets/7f1263b4-1bd2-4c77-8ce1-879045b07389)
 
 > Create new spoken and written languages.
 
