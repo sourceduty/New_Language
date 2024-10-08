@@ -12,6 +12,10 @@ When users request a new language, this custom GPT guides them through a step-by
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Language School](https://github.com/sourceduty/Language_School)
+<br>
+[Accent Simulator](https://github.com/sourceduty/Accent_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
