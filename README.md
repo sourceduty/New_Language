@@ -9,8 +9,13 @@
 When users request a new language, this custom GPT guides them through a step-by-step process to define the language’s purpose and aesthetic. This approach ensures that each language aligns closely with the user’s vision, creating a cohesive cultural and linguistic experience. Once the language’s foundations are established, it presents detailed information on its sounds, structure, and usage, along with examples that showcase its practical applications. As a result, users gain both the vocabulary and context necessary to understand and use the language, enabling them to visualize the culture and environment that shapes it.
 
 #
+### Lawless Grammar
 
-![New Language](https://github.com/user-attachments/assets/7f1263b4-1bd2-4c77-8ce1-879045b07389)
+![Leet](https://github.com/user-attachments/assets/f71fafe3-9020-413b-939e-78db77979ba0)
+
+English grammar is notoriously lawless, bending to context, cultural shifts, and irregular exceptions. Unlike programming languages, which require precision, English thrives on ambiguity and adaptation. Verb conjugations shift wildly across tenses and voices, spelling often defies pronunciation, and word meanings can twist depending on tone or setting. "Read" and "read" look identical but change meaning based on context; idiomatic expressions contradict syntax rules, and regional dialects add further layers of variability. English often relies on intuition rather than strict rule adherence, allowing for creativity but often confusing non-native speakers and learners.
+
+Python, on the other hand, is a paragon of syntactic discipline, adhering to strict, unambiguous rules. Every command, loop, and variable in Python has a specific structure and intent; a single misplaced comma or indentation disrupts functionality entirely. Python syntax requires precise consistency and discourages ambiguity, making it straightforward for coders to interpret and implement logical operations. The Python interpreter allows no flexibility for nuance, unlike English, where double meanings and context reign supreme. In this way, Python’s structure enforces a clear, deterministic path for programmers, while English permits an organic, often unpredictable evolution in form and usage.
 
 #
 ### Related Links
